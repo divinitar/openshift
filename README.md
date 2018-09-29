@@ -29,9 +29,9 @@
     "settings": {
       "clients": [
         {
-          "id": "uuid换成你自己的",
+          "id": "uuid换成你自己的", //生成网址https://www.uuidgenerator.net/
           "alterId": 64,
-          "security": "加密方式自己选"
+          "security": "加密方式自己选" //可选chacha20-ploy1305
         }
       ]
     },
